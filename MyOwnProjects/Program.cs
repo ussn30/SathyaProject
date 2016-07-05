@@ -11,6 +11,7 @@ namespace MyOwnProjects
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ss");
         }
     }
 }
