@@ -12,6 +12,7 @@ namespace MyOwnProjects
         static void Main(string[] args)
         {
             Console.WriteLine("ss");
+            Console.WriteLine("s111s");
         }
     }
 }
